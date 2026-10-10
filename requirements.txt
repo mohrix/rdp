@@ -1,0 +1,3 @@
+python-telegram-bot==20.8
+python-dotenv==1.0.1
+python-socks[asyncio]==2.4.4
