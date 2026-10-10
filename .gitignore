@@ -1,0 +1,5 @@
+.env
+scan_results/
+scan_states/
+__pycache__/
+*.pyc
