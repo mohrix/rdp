@@ -1,0 +1,8 @@
+[phases.setup]
+aptPkgs = ["freerdp2-x11", "ca-certificates"]
+
+[phases.install]
+cmds = ["pip install -r requirements.txt"]
+
+[start]
+cmd = "python bot.py"
